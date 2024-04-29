@@ -1,0 +1,23 @@
+# This is a comment
+
+# Define code owners for specific files or directories
+# Each line contains a pattern followed by one or more GitHub usernames or team names
+
+# Assign a code owner for the entire repository
+*       @githubusername1 @teamname1
+*       @githubusername2 @teamname2
+
+# Assign a code owner for a specific directory and its contents
+/docs/  @githubusername2
+
+# Assign multiple code owners for a specific file
+/src/main.py  @githubusername3 @githubusername4
+
+# Assign a code owner for a specific file extension
+*.html  @githubusername5
+
+# Assign a code owner for all files in a specific folder and its subdirectories
+/backend/  @githubusername6
+
+# Assign a code owner for all files in a specific folder and its subdirectories recursively
+/**/tests/  @githubusername7

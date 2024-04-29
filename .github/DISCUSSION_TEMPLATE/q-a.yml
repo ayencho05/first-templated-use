@@ -1,0 +1,29 @@
+name: "Q&A - Questions & Answers"
+
+about: |
+  Welcome to the Q&A section! Feel free to ask any questions related to the project here. Our community members and maintainers will do their best to provide helpful answers.
+
+body:
+  - type: markdown
+    value: "## Contact Details"
+  - type: markdown
+    value: |
+      If you need further assistance or have specific inquiries, you can contact us through the following channels:
+      - Email: [contact@example.com](mailto:contact@example.com)
+      - Discord: [Join our Discord server](https://discord.gg/example)
+      - Community Forum: [Visit our community forum](https://forum.example.com)
+
+  - type: markdown
+    value: "## What is the Question You Seek an Answer to?"
+  - type: markdown
+    value: |
+      Please provide details about your question below. Be as clear and specific as possible to help our community members and maintainers provide accurate and helpful answers.
+
+  - type: markdown
+    value: "## Guidelines"
+  - type: markdown
+    value: |
+      - Be respectful and considerate towards others.
+      - Avoid spamming or posting irrelevant content.
+      - Use appropriate language and tone.
+      - Provide constructive feedback and assistance.
